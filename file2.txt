@@ -1,3 +1,4 @@
 this is my 2 nd file in github from terminal
 this is my second edit
 my edit in feature1 branch.
+some more lines added while the work was in stash
